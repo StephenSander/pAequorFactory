@@ -136,6 +136,3 @@ survivors.forEach(s => {
 
 
 
-
-//new
-//line
